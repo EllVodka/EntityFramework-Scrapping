@@ -1,0 +1,8 @@
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.csproj.AssemblyReference.cache
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.AssemblyInfoInputs.cache
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.AssemblyInfo.cs
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.csproj.CoreCompileInputs.cache
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.MvcApplicationPartsAssemblyInfo.cache
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.RazorAssemblyInfo.cache
+D:\COURS\AP\EntityFramework\obj\Debug\netcoreapp3.1\Mission3.RazorAssemblyInfo.cs

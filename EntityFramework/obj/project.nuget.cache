@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "auE++BEH+7bMBjNarNervd+OSCt2bQm6ChudjEufjvAUqWYbWssRQmeTHwvIWPylg+Y2DR+u1uJ1uRcegJpVgg==",
+  "dgSpecHash": "GBairrskFW4PCGfI5cfZ2OsM+BH9UH7XgsU2Bt6X9A5lL409I3AbkMzgBwP/JaLr8r8RD/QvYPhPOPPlvE394Q==",
   "success": true,
-  "projectFilePath": "D:\\COURS\\AP\\Mission3\\Mission3.csproj",
+  "projectFilePath": "D:\\COURS\\AP\\EntityFramework\\Mission3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erics\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\erics\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

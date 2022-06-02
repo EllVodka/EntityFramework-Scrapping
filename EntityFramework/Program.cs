@@ -17,7 +17,7 @@ namespace Mission3
         {
             try
             {
-                using (TextFieldParser parser = new(@"D:\Python\scrap\scrap.csv"))
+                using (TextFieldParser parser = new(@"C:\Users\erics\Desktop\scrap\scrap.csv"))
                 {
                     parser.TextFieldType = FieldType.Delimited;
                     parser.SetDelimiters(";");
@@ -63,7 +63,7 @@ namespace Mission3
         {
             try
             {
-                using (TextFieldParser parser = new(@"D:\Python\scrap\TypeMedicament.csv"))
+                using (TextFieldParser parser = new(@"C:\Users\erics\Desktop\scrap\TypeMedicament.csv"))
                 {
                     parser.TextFieldType = FieldType.Delimited;
                     parser.SetDelimiters(";");

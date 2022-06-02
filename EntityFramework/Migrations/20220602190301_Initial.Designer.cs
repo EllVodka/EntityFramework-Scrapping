@@ -8,7 +8,7 @@ using Mission3.Data;
 namespace Mission3.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20220312105228_Initial")]
+    [Migration("20220602190301_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

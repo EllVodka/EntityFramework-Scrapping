@@ -1627,11 +1627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\COURS\\AP\\Mission3\\Mission3.csproj",
+      "projectUniqueName": "D:\\COURS\\AP\\EntityFramework\\Mission3.csproj",
       "projectName": "Mission3",
-      "projectPath": "D:\\COURS\\AP\\Mission3\\Mission3.csproj",
+      "projectPath": "D:\\COURS\\AP\\EntityFramework\\Mission3.csproj",
       "packagesPath": "C:\\Users\\erics\\.nuget\\packages\\",
-      "outputPath": "D:\\COURS\\AP\\Mission3\\obj\\",
+      "outputPath": "D:\\COURS\\AP\\EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
