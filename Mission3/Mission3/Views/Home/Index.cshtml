@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model dynamic
+
+<h2>Medicament</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nom du produit</th>
+            <th>Prix</th>
+            <th>Description</th>
+            <th>Quantité</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Medicament)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.NomProduit</td>
+                <td>@item.Prix</td>
+                <td>@item.Description</td>
+                <td>@item.TypeMedicament</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<br />
+<h2>Type des medicaments</h2>
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Libelle</th>
+            <th>Designation</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.TypeMedicament)
+        {
+            <tr>
+                <td>@item.Libelle</td>
+                <td>@item.Designation</td>
+            </tr>
+        }
+    </tbody>
+</table>
